@@ -13,9 +13,9 @@ happyHolidaysTo(Adrienne)
 function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`
 }
-happyHolidayTo(Valentine day,Jennifer);
+happyHolidayTo(valentineday,jennifer);
 // 4 begins
 function holidayCountdown(holiday,days){
   return `It's ${days} days until ${holiday}!`
 }
-holidayCountdown(your birthday,'4')
+holidayCountdown(yourbirthday,'4')
