@@ -8,14 +8,14 @@ happyHolidays()
 function happyHolidaysTo(name){
 return `Happy holidays, ${name}!`
 }
-happyHolidaysTo(Adrienne)
+happyHolidaysTo('Adrienne')
 // 3 begin
 function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`
 }
-happyHolidayTo(valentineday,jennifer);
+happyHolidayTo('valentine day','jennifer');
 // 4 begins
 function holidayCountdown(holiday,days){
   return `It's ${days} days until ${holiday}!`
 }
-holidayCountdown(yourbirthday,'4')
+holidayCountdown('yourbirthday','4')
