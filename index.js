@@ -13,7 +13,7 @@ happyHolidaysTo(Adrienne)
 function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`
 }
-happyHolidayTo(Valentine day,Jennifer)
+happyHolidayTo(Valentine day,Jennifer);
 // 4 begins
 function holidayCountdown(holiday,days){
   return `It's ${days} days until ${holiday}!`
