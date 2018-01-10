@@ -1,7 +1,7 @@
 // write your code below!
 // 1 begins
 function happyHolidays(){
-  return 'Happy holidays!'
+  return Happy holidays!
 }
 console.log (happyHolidays())
 /*
