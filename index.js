@@ -1,7 +1,8 @@
 // write your code below!
 // 1 begins
 function happyHolidays(){
-  return Happy holidays!}
+  return 'Happy holidays!'
+}
 console.log (happyHolidays())
 /*
 3. Write a function named `happyHolidayTo`. This function should accept two parameters, the holiday you want to wish them well for,
