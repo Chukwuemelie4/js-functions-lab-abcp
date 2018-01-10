@@ -3,7 +3,7 @@
 function happyHolidays(){
   return Happy holidays!
 }
-console.log (happyHolidays())
+happyHolidays()
 /*
 3. Write a function named `happyHolidayTo`. This function should accept two parameters, the holiday you want to wish them well for,
  and the name of the person you're wishing well. This function should return the string `` `Happy ${holiday}, ${name}!` ``
@@ -14,14 +14,14 @@ the holiday name and number of days till that holiday. The function should retur
 function happyHolidaysTo(name){
 return `Happy holidays, ${name}!`
 }
-console.log(happyHolidaysTo(Adrienne))
-// 3 begins
+happyHolidaysTo(Adrienne)
+// 3 begin
 function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`
 }
-console.log(happyHolidayTo(Valentine day, Jennifer))
+happyHolidayTo(Valentine day, Jennifer)
 // 4 begins
 function holidayCountdown(holiday,days){
   return `It's ${days} days until ${holiday}!`
 }
-console.log(holidayCountdown(your birthday,4))
+holidayCountdown(your birthday,'4')
